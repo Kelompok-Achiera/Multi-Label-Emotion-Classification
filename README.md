@@ -1,4 +1,4 @@
-# Multi-Label-Emotion-Classification
+# Multi-Label Emotion Classification Menggunakan Naive Bayes
 
 Ketua   : Aprialdy Sembiring (11S18024)
 
@@ -12,4 +12,7 @@ Anggota :
 ## Links
 
 - [Google Drive](https://drive.google.com/drive/folders/1nAzxcnC7PCtUsQghJek-iAbXVXKbvDUY?usp=sharing)
-- [Dataset (Hugging Face)](https://huggingface.co/datasets/go_emotions)
+- [Dataset (go_emotions by Hugging Face)](https://huggingface.co/datasets/go_emotions)
+
+
+
