@@ -15,6 +15,9 @@ Anggota :
 - [Dataset (go_emotions by Hugging Face)](https://huggingface.co/datasets/go_emotions)
 
 ## Datasets
+Dataset adalah kumpulan data yang berbentuk himpunan data yang berasal dari informasi-informasi lampau yang siap untuk dikelola menjadi informasi baru. Sebuah dataset harus memiliki tujuan yang bersifat comparable, repeatable, dan verifiable. Pada proyek ini, dataset yang digunakan adalah go_emotions dataset oleh Hugging Face.
+
+Dataset go_emotions milik Hugging face adalah dataset yang terdiri dari 85 ribu komentar berbahasa Inggris dalam situs reddit yang sudah dilabelkan dengan 27 jenis emosi ditambah 1 emosi netral. Dataset ini mendukung pengolahan data untuk sebuah multi-label classification, dimana pada dataset ini, sebuah data bisa memiliki lebih dari satu jenis label emosi didalamnya. Berikut adalah daftar jenis label emosi yang terdapat pada dataset go_emotions.
 
 go_emotions by [HuggingFace](https://huggingface.co/)
 
@@ -47,3 +50,4 @@ Emosi merupakan perasaan intens yang berasal dari suasana hati yang ditujukan pa
 Naive Bayes merupakan metode pengklasifikasian atau pengelompokan data berdasarkan probabilitas. Kami memilih metode Naive Bayes karena metode ini merupakan salah satu algoritma klasifikasi yang memiliki waktu pemrosesan yang cepat dan mendapatkan nilai error yang lebih kecil bila diterapkan pada kumpulan data (dataset) yang besar. 
 
 Maka dari itu, dengan menggunakan metode Naive Bayes pada proyek ini, diharapkan mampu melakukan deteksi emosi pada dataset secara tepat dan sesuai, sehingga tujuan utama dari proyek ini terpenuhi, yaitu dapat mengetahui melakukan identifikasi secara otomatis terhadap label emosi yang paling dominan dari kalimat yang terdapat pada dataset.
+
