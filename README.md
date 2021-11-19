@@ -33,14 +33,14 @@ Melakukan identifikasi secara otomatis terhadap  label emosi yang paling dominan
 Penelitian dilakukan menggunakan metode Naive  Bayes dengan	menggunakan bahasa  pemrograman python3 dimana dataset yang  digunakan adalah dataset go_emotions dari  Hugging_Face
 
 ### Hasil yang diharapkan
-Hasil pengerjaan proyek ini diharapkan mampu  untuk mengidentifikasi bermacam-macam label  emosi dalam dataset yang disediakan dengan  Multi-Label Emotion Classification Menggunakan  Naive bayes
+Hasil pengerjaan proyek ini diharapkan mampu  untuk mengidentifikasi bermacam-macam label  emosi dalam dataset yang disediakan dengan  Multi-Label Emotion Classification Menggunakan Naive bayes.
 
 # Alasan Pemilihan Studi Kasus dan Metodenya
 
 ### Mengapa Multi-Label Emotion Classification?
 Multi-Label Classification merupakan metode klasifikasi untuk melakukan prediksi kemungkinan label untuk suatu teks tertentu ataupun bertugas untuk pemodelan prediktif yang melibatkan keluaran label kelas yang diberikan beberapa masukan.
 
-Emosi merupakan perasaan intens yang berasal dari suasana hati yang ditujukan pada suatu hal. Pengklasifikasian emosi dapat dilakukan dengan metode Multi-Label Classification yang memiliki banyak manfaat seperti mengidentifikasi kepuasan pelanggan terhadap layanan yang diberikan, memprediksi penjualan produk, memantau emosi pengguna, dll
+Emosi merupakan perasaan intens yang berasal dari suasana hati yang ditujukan pada suatu hal. Pengklasifikasian emosi dapat dilakukan dengan metode Multi-Label Classification yang memiliki banyak manfaat seperti mengidentifikasi kepuasan pelanggan terhadap layanan yang diberikan, memprediksi penjualan produk, memantau emosi pengguna, dan lainnya.
 
 
 ### Mengapa Metode Naive Bayes?
