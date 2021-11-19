@@ -14,6 +14,8 @@ Anggota :
 - [Google Drive](https://drive.google.com/drive/folders/1nAzxcnC7PCtUsQghJek-iAbXVXKbvDUY?usp=sharing)
 - [Dataset (go_emotions by Hugging Face)](https://huggingface.co/datasets/go_emotions)
 
+Try our code Online! [Click Here!](https://colab.research.google.com/drive/1tP32K917Gua9BmL7BqB2ccO6l8I_BSg2?usp=sharing)
+
 ## Datasets
 Dataset adalah kumpulan data yang berbentuk himpunan data yang berasal dari informasi-informasi lampau yang siap untuk dikelola menjadi informasi baru. Sebuah dataset harus memiliki tujuan yang bersifat comparable, repeatable, dan verifiable. Pada proyek ini, dataset yang digunakan adalah go_emotions dataset oleh Hugging Face.
 
