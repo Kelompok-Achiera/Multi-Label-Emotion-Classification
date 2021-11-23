@@ -14,7 +14,7 @@ Anggota :
 - [Google Drive](https://drive.google.com/drive/folders/1nAzxcnC7PCtUsQghJek-iAbXVXKbvDUY?usp=sharing)
 - [Dataset (go_emotions by Hugging Face)](https://huggingface.co/datasets/go_emotions)
 
-Try our code Online! [Click Here!](https://colab.research.google.com/drive/1tP32K917Gua9BmL7BqB2ccO6l8I_BSg2?usp=sharing)
+Try our code Online! [Click Here!](https://github.com/Kelompok-Achiera/Multi-Label-Emotion-Classification#online-code---google-colab-use-guide)
 
 ## Datasets
 Dataset adalah kumpulan data yang berbentuk himpunan data yang berasal dari informasi-informasi lampau yang siap untuk dikelola menjadi informasi baru. Sebuah dataset harus memiliki tujuan yang bersifat comparable, repeatable, dan verifiable. Pada proyek ini, dataset yang digunakan adalah go_emotions dataset oleh Hugging Face.
@@ -58,4 +58,7 @@ Maka dari itu, dengan menggunakan metode Naive Bayes pada proyek ini, diharapkan
 1. Pastikan sudah menyiapkan file dataset. Dapat diperoleh dari [sini](https://github.com/Kelompok-Achiera/Multi-Label-Emotion-Classification/tree/main/dataset/dummy_data%20raw) 
 2. Buka [Link](https://colab.research.google.com/drive/1tP32K917Gua9BmL7BqB2ccO6l8I_BSg2?usp=sharing) Google Colab
 3. Upload file dataset pada kolom upload file /content/sample-data/nama-file-dataset.csv
+
+![googlecolab](https://user-images.githubusercontent.com/72435408/142966061-c52349c2-0e78-42d5-9f24-df7fc2c19e1b.PNG)
+
 4. Jika tampilan folder sudah seperti gambar diatas, maka code program siap untuk dijalankan.
