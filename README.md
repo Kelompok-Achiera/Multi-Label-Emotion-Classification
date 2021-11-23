@@ -53,3 +53,9 @@ Naive Bayes merupakan metode pengklasifikasian atau pengelompokan data berdasark
 
 Maka dari itu, dengan menggunakan metode Naive Bayes pada proyek ini, diharapkan mampu melakukan deteksi emosi pada dataset secara tepat dan sesuai, sehingga tujuan utama dari proyek ini terpenuhi, yaitu dapat mengetahui melakukan identifikasi secara otomatis terhadap label emosi yang paling dominan dari kalimat yang terdapat pada dataset.
 
+# Online Code - Google Colab use Guide
+
+1. Pastikan sudah menyiapkan file dataset. Dapat diperoleh dari [sini](https://github.com/Kelompok-Achiera/Multi-Label-Emotion-Classification/tree/main/dataset/dummy_data%20raw) 
+2. Buka [Link](https://colab.research.google.com/drive/1tP32K917Gua9BmL7BqB2ccO6l8I_BSg2?usp=sharing) Google Colab
+3. Upload file dataset pada kolom upload file /content/sample-data/nama-file-dataset.csv
+4. Jika tampilan folder sudah seperti gambar diatas, maka code program siap untuk dijalankan.
