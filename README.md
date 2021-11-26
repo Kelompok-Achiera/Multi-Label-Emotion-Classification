@@ -49,7 +49,7 @@ Emosi merupakan perasaan intens yang berasal dari suasana hati yang ditujukan pa
 
 
 ### Mengapa Metode Naive Bayes?
-Naive Bayes merupakan metode pengklasifikasian atau pengelompokan data berdasarkan probabilitas. Kami memilih metode Naive Bayes karena metode ini merupakan salah satu algoritma klasifikasi yang memiliki waktu pemrosesan yang cepat dan mendapatkan nilai error yang lebih kecil bila diterapkan pada kumpulan data (dataset) yang besar. 
+Naive Bayes merupakan metode pengklasifikasian atau pengelompokan data berdasarkan probabilitas. Kami memilih metode Naive Bayes karena metode ini merupakan salah satu algoritma klasifikasi yang memiliki waktu pemrosesan yang cepat dan mendapatkan nilai error yang lebih kecil bila diterapkan pada kumpulan data (dataset) yang besar. Naive Bayes digunakan untuk mengklasifikasikan sebuah teks dan digunakan dalam metode machine learning yang menggunakan probabilitas.
 
 Maka dari itu, dengan menggunakan metode Naive Bayes pada proyek ini, diharapkan mampu melakukan deteksi emosi pada dataset secara tepat dan sesuai, sehingga tujuan utama dari proyek ini terpenuhi, yaitu dapat mengetahui melakukan identifikasi secara otomatis terhadap label emosi yang paling dominan dari kalimat yang terdapat pada dataset.
 
