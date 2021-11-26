@@ -45,7 +45,7 @@ Hasil pengerjaan proyek ini diharapkan mampu  untuk mengidentifikasi bermacam-ma
 ### Mengapa Multi-Label Emotion Classification?
 Multi-Label Classification merupakan metode klasifikasi untuk melakukan prediksi kemungkinan label untuk suatu teks tertentu ataupun bertugas untuk pemodelan prediktif yang melibatkan keluaran label kelas yang diberikan beberapa masukan.
 
-Emosi merupakan perasaan intens yang berasal dari suasana hati yang ditujukan pada suatu hal. Pengklasifikasian emosi dapat dilakukan dengan metode Multi-Label Classification yang memiliki banyak manfaat seperti mengidentifikasi kepuasan pelanggan terhadap layanan yang diberikan, memprediksi penjualan produk, memantau emosi pengguna, dan lainnya.
+Semakin berkembangnya kemajuan teknologi  menjadikan media sosial sebagai wadah untuk mengekspresikan emosi penggunanya. Emosi merupakan perasaan intens yang berasal dari suasana hati yang ditujukan pada suatu hal. Pengklasifikasian emosi dapat dilakukan dengan metode Multi-Label Classification yang memiliki banyak manfaat seperti mengidentifikasi kepuasan pelanggan terhadap layanan yang diberikan, memprediksi penjualan produk, memantau emosi pengguna, dan lainnya.
 
 
 ### Mengapa Metode Naive Bayes?
