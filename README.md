@@ -45,11 +45,11 @@ Hasil pengerjaan proyek ini diharapkan mampu  untuk mengidentifikasi bermacam-ma
 ### Mengapa Multi-Label Emotion Classification?
 Multi-Label Classification merupakan metode klasifikasi untuk melakukan prediksi kemungkinan label untuk suatu teks tertentu ataupun bertugas untuk pemodelan prediktif yang melibatkan keluaran label kelas yang diberikan beberapa masukan.
 
-Emosi merupakan perasaan intens yang berasal dari suasana hati yang ditujukan pada suatu hal. Pengklasifikasian emosi dapat dilakukan dengan metode Multi-Label Classification yang memiliki banyak manfaat seperti mengidentifikasi kepuasan pelanggan terhadap layanan yang diberikan, memprediksi penjualan produk, memantau emosi pengguna, dan lainnya.
+Semakin berkembangnya kemajuan teknologi  menjadikan media sosial sebagai wadah untuk mengekspresikan emosi penggunanya. Emosi merupakan perasaan intens yang berasal dari suasana hati yang ditujukan pada suatu hal. Pengklasifikasian emosi dapat dilakukan dengan metode Multi-Label Classification yang memiliki banyak manfaat seperti mengidentifikasi kepuasan pelanggan terhadap layanan yang diberikan, memprediksi penjualan produk, memantau emosi pengguna, dan lainnya.
 
 
 ### Mengapa Metode Naive Bayes?
-Naive Bayes merupakan metode pengklasifikasian atau pengelompokan data berdasarkan probabilitas. Kami memilih metode Naive Bayes karena metode ini merupakan salah satu algoritma klasifikasi yang memiliki waktu pemrosesan yang cepat dan mendapatkan nilai error yang lebih kecil bila diterapkan pada kumpulan data (dataset) yang besar. 
+Naive Bayes merupakan metode pengklasifikasian atau pengelompokan data berdasarkan probabilitas. Kami memilih metode Naive Bayes karena metode ini merupakan salah satu algoritma klasifikasi yang memiliki waktu pemrosesan yang cepat dan mendapatkan nilai error yang lebih kecil bila diterapkan pada kumpulan data (dataset) yang besar. Naive Bayes digunakan untuk mengklasifikasikan sebuah teks dan digunakan dalam metode machine learning yang menggunakan probabilitas.
 
 Maka dari itu, dengan menggunakan metode Naive Bayes pada proyek ini, diharapkan mampu melakukan deteksi emosi pada dataset secara tepat dan sesuai, sehingga tujuan utama dari proyek ini terpenuhi, yaitu dapat mengetahui melakukan identifikasi secara otomatis terhadap label emosi yang paling dominan dari kalimat yang terdapat pada dataset.
 
